@@ -858,7 +858,7 @@ In the agent era, context engineering increasingly means **runtime context manag
     <a href="https://github.com/weaviate/structured-rag" target="_blank">
   		<img src="https://img.shields.io/github/stars/weaviate/structured-rag.svg?style=social" alt="GitHub stars">
     </a></li>
-<li><i><b>schemagate: Schema Selection for Text-to-SQL (about 91% fewer schema tokens on 50+ table databases; #1 on BIRD Mini-Dev)</b></i>, Sinha, <a href="https://github.com/ashishsinha1602/schemagate" target="_blank"><img src="https://img.shields.io/badge/GitHub-2026.11-white" alt="GitHub Badge"></a>
+<li><i><b>schemagate: Schema Selection for Text-to-SQL (about 91% fewer schema tokens on 50+ table databases; 74.34 EX on BIRD's hidden test set)</b></i>, Sinha, <a href="https://github.com/ashishsinha1602/schemagate" target="_blank"><img src="https://img.shields.io/badge/GitHub-2026.11-white" alt="GitHub Badge"></a>
     <a href="https://github.com/ashishsinha1602/schemagate" target="_blank">
   		<img src="https://img.shields.io/github/stars/ashishsinha1602/schemagate.svg?style=social" alt="GitHub stars">
     </a></li>
